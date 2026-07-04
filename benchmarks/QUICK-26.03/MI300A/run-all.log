@@ -1,0 +1,46 @@
+>>> Running on host x8000c2s6b0n0 <<<
+
+Benchmark 1m2c.in
+ >> Elapsed time = 1363 seconds =     22.7 minutes
+
+Benchmark 3_10_helix.in
+ >> Elapsed time = 228 seconds =      3.8 minutes
+
+Benchmark alpha_helix.in
+ >> Elapsed time = 231 seconds =      3.9 minutes
+
+Benchmark beta_strand.in
+ >> Elapsed time = 116 seconds =      1.9 minutes
+
+Benchmark buckyball.in
+ >> Elapsed time = 163 seconds =      2.7 minutes
+
+Benchmark psb5.in
+ >> Elapsed time = 11 seconds =      0.2 minutes
+
+Benchmark morphine.in
+ >> Elapsed time = 22 seconds =      0.4 minutes
+
+Benchmark olestra.in
+ >> Elapsed time = 521 seconds =      8.7 minutes
+
+Benchmark valinomycin.in
+ >> Elapsed time = 153 seconds =      2.6 minutes
+
+Benchmark taxol.in
+ >> Elapsed time = 86 seconds =      1.4 minutes
+
+Benchmark water120.in
+ >> Elapsed time = 209 seconds =      3.5 minutes
+
+Benchmark water150.in
+ >> Elapsed time = 333 seconds =      5.5 minutes
+
+Benchmark water30.in
+ >> Elapsed time = 20 seconds =      0.3 minutes
+
+Benchmark water60.in
+ >> Elapsed time = 51 seconds =      0.8 minutes
+
+Benchmark water90.in
+ >> Elapsed time = 115 seconds =      1.9 minutes

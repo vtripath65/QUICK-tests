@@ -1,0 +1,46 @@
+>>> Running on host gpua073 <<<
+
+Benchmark 1m2c.in
+ >> Elapsed time = 6511 seconds =    108.5 minutes
+
+Benchmark 3_10_helix.in
+ >> Elapsed time = 893 seconds =     14.9 minutes
+
+Benchmark alpha_helix.in
+ >> Elapsed time = 872 seconds =     14.5 minutes
+
+Benchmark beta_strand.in
+ >> Elapsed time = 368 seconds =      6.1 minutes
+
+Benchmark buckyball.in
+ >> Elapsed time = 616 seconds =     10.3 minutes
+
+Benchmark morphine.in
+ >> Elapsed time = 36 seconds =      0.6 minutes
+
+Benchmark olestra.in
+ >> Elapsed time = 2006 seconds =     33.4 minutes
+
+Benchmark psb5.in
+ >> Elapsed time = 8 seconds =      0.1 minutes
+
+Benchmark taxol.in
+ >> Elapsed time = 264 seconds =      4.4 minutes
+
+Benchmark valinomycin.in
+ >> Elapsed time = 535 seconds =      8.9 minutes
+
+Benchmark water120.in
+ >> Elapsed time = 755 seconds =     12.6 minutes
+
+Benchmark water150.in
+ >> Elapsed time = 1274 seconds =     21.2 minutes
+
+Benchmark water30.in
+ >> Elapsed time = 29 seconds =      0.5 minutes
+
+Benchmark water60.in
+ >> Elapsed time = 133 seconds =      2.2 minutes
+
+Benchmark water90.in
+ >> Elapsed time = 376 seconds =      6.3 minutes

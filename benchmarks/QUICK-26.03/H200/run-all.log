@@ -1,0 +1,46 @@
+>>> Running on host gpue02 <<<
+
+Benchmark 1m2c.in
+ >> Elapsed time = 669 seconds =     11.2 minutes
+
+Benchmark 3_10_helix.in
+ >> Elapsed time = 150 seconds =      2.5 minutes
+
+Benchmark alpha_helix.in
+ >> Elapsed time = 149 seconds =      2.5 minutes
+
+Benchmark beta_strand.in
+ >> Elapsed time = 75 seconds =      1.2 minutes
+
+Benchmark buckyball.in
+ >> Elapsed time = 107 seconds =      1.8 minutes
+
+Benchmark morphine.in
+ >> Elapsed time = 12 seconds =      0.2 minutes
+
+Benchmark olestra.in
+ >> Elapsed time = 322 seconds =      5.4 minutes
+
+Benchmark psb5.in
+ >> Elapsed time = 4 seconds =      0.1 minutes
+
+Benchmark taxol.in
+ >> Elapsed time = 58 seconds =      1.0 minutes
+
+Benchmark valinomycin.in
+ >> Elapsed time = 103 seconds =      1.7 minutes
+
+Benchmark water120.in
+ >> Elapsed time = 145 seconds =      2.4 minutes
+
+Benchmark water150.in
+ >> Elapsed time = 238 seconds =      4.0 minutes
+
+Benchmark water30.in
+ >> Elapsed time = 11 seconds =      0.2 minutes
+
+Benchmark water60.in
+ >> Elapsed time = 32 seconds =      0.5 minutes
+
+Benchmark water90.in
+ >> Elapsed time = 79 seconds =      1.3 minutes
